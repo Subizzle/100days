@@ -1,3 +1,5 @@
+#Program to determine if a number is even or odd.
+
 divisor = int(2)
 dividend = int(input("What is your dividend?\n"))
 
